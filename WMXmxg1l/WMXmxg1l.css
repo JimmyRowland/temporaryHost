@@ -1,0 +1,74 @@
+﻿@font-face {
+	font-family: 'SimSun_Type0_0';
+	src: local('SimSun_Type0_0');
+	src: url('SimSun_Type0_0.otf') format('opentype');
+}
+
+.fmt-0{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#000000;font-size:18pt;}
+
+@font-face {
+	font-family: 'Microsoft_YaHei_Type0_1';
+	src: local('Microsoft_YaHei_Type0_1');
+	src: url('Microsoft_YaHei_Type0_1.otf') format('opentype');
+}
+
+.fmt-1{font-style:normal;font-weight:bold;font-family:Microsoft_YaHei_Type0_1,Microsoft YaHei,serif;color:#484429;font-size:10.45pt;}
+
+.fmt-2{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#ff2941;font-size:10.45pt;}
+
+@font-face {
+	font-family: 'Calibri_Type0_2';
+	src: local('Calibri_Type0_2');
+	src: url('Calibri_Type0_2.otf') format('opentype');
+}
+
+.fmt-3{font-style:normal;font-weight:bold;font-family:Calibri_Type0_2,Calibri,serif;color:#ff2941;font-size:10.45pt;}
+
+.fmt-4{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#000000;font-size:10.45pt;}
+
+.fmt-5{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#3d3d3d;font-size:12pt;}
+
+.fmt-6{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#3d3d3d;font-size:10.45pt;}
+
+.fmt-7{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#3d3d3d;font-size:9pt;}
+
+.fmt-8{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#ff0000;font-size:9pt;}
+
+.fmt-9{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#ff4f79;font-size:10.45pt;}
+
+.fmt-10{font-style:normal;font-weight:bold;font-family:Calibri_Type0_2,Calibri,serif;color:#ff4f79;font-size:10.45pt;}
+
+.fmt-11{font-style:normal;font-weight:bold;font-family:Calibri_Type0_2,Calibri,serif;color:#3d3d3d;font-size:9pt;}
+
+.fmt-12{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#3d3d3d;font-size:9.95pt;}
+
+.fmt-13{font-style:normal;font-weight:bold;font-family:Calibri_Type0_2,Calibri,serif;color:#3d3d3d;font-size:9.95pt;}
+
+.fmt-14{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#000000;font-size:9.95pt;}
+
+@font-face {
+	font-family: 'Calibri_Type0_3';
+	src: local('Calibri_Type0_3');
+	src: url('Calibri_Type0_3.otf') format('opentype');
+}
+
+.fmt-15{font-style:normal;font-weight:normal;font-family:Calibri_Type0_3,Calibri,serif;color:#000000;font-size:10.45pt;}
+
+@font-face {
+	font-family: 'Batang_Type0_4';
+	src: local('Batang_Type0_4');
+	src: url('Batang_Type0_4.otf') format('opentype');
+}
+
+.fmt-16{font-style:normal;font-weight:normal;font-family:Batang_Type0_4,Batang,serif;color:#3d3d3d;font-size:9.95pt;}
+
+.fmt-17{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#0b0b0b;font-size:9.95pt;}
+
+.fmt-18{font-style:normal;font-weight:bold;font-family:Calibri_Type0_2,Calibri,serif;color:#0b0b0b;font-size:9.95pt;}
+
+.fmt-19{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#3d3d3d;font-size:13.45pt;}
+
+.fmt-20{font-style:normal;font-weight:normal;font-family:Calibri_Type0_3,Calibri,serif;color:#3d3d3d;font-size:13.45pt;}
+
+.fmt-21{font-style:normal;font-weight:normal;font-family:SimSun_Type0_0,SimSun,serif;color:#484429;font-size:10.45pt;}
+
