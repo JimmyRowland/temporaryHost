@@ -1,0 +1,23 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ h1 { color: black; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 18pt; }
+ .s1 { color: #484429; font-family:"Microsoft YaHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s2 { color: #FF2941; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s3 { color: #FF2941; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s4 { color: black; font-family:SimSun; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .h2, h2 { color: #3D3D3D; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s5 { color: #3D3D3D; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s6 { color: #3D3D3D; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .s8 { color: #FF4F79; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s9 { color: #FF4F79; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s10 { color: #3D3D3D; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .p, p { color: #3D3D3D; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; margin:0pt; }
+ .s11 { color: #3D3D3D; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
+ .s12 { color: black; font-family:SimSun; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s13 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s14 { color: #3D3D3D; font-family:Batang, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
+ .h4, h4 { color: #0B0B0B; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
+ .s15 { color: #0B0B0B; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
+ .s16 { color: #3D3D3D; font-family:SimSun; font-style: normal; font-weight: normal; text-decoration: none; font-size: 13.5pt; }
+ .s17 { color: #3D3D3D; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 13.5pt; }
+ .s18 { color: #3D3D3D; font-family:SimSun; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .h3, h3 { color: #484429; font-family:SimSun; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
